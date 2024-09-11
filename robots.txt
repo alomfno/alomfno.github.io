@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://alomfno.github.io/sitemap/sitemap.txt
